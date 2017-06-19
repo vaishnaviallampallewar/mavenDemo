@@ -16,7 +16,7 @@ public class HelloApp {
      *
      * @param args Arguments passed to this program.
      */
-    public static (String[] args) {
+    public static (String[] args) {;;;;
 
         int times = DEFAULT_TIMES;
         if (args.length >= 1) {
